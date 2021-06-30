@@ -1,4 +1,4 @@
 # Auto-Mation of Drone 
-This is a project that focuses on the automation of an unmanned ariel vechiel for the purpose of medical emergency during the time of any natural calamity.
+Build a drone that can deliver essential medical products/blood of up to 2.0 kilograms per flight while maintaining the cold chain if needed- in an average fulfilment time of 30 minutes. Also, it should be usable in emergencies and disaster prone areas.
 
 A projrct by BackStreet Hackers.
